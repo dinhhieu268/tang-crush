@@ -10,8 +10,10 @@ Mở file config.js sửa nội dung theo mẫu
 const CONFIG = {
     introTitle: 'slow à!',
     introDesc: `có điều này anh muốn nói với em
-    Em hãy trả lời đừng thoát ra nha`,
-    btnIntro: 'Click vào đây nhé',
+    Em hãy trả lời đừng thoát ra nha`
+    Trả lời anh sẽ rất vui và cảm ơn em 
+    3..2...1....,
+    btnIntro: 'Click vào nhé',
     title: 'Em đồng ý làm bạn gái anh nha 😙',
     desc: 'Nếu không trả lời or thoát ra là em đồng ý rồi nha ',
     btnYes: 'Vẫn cứ là thích anh <33',
