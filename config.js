@@ -1,13 +1,10 @@
 const CONFIG = {
     introTitle: 'Slow à!',
     introDesc: `Anh có điều này muốn hỏi em?
-    
     Em hãy trả lời đừng thoát ra nha.
-    
     Trả lời anh sẽ rất vui và cảm ơn em.
-    
     Trắc nghiệm vui thôi đừng nặng nề quá nha`,
-    btnIntro: 'click vào đây',
+    btnIntro: 'Click vào đây',
     title: 'Em đồng ý làm bạn gái anh nha 😙',
     desc: 'Nếu không trả lời or thoát ra là em đồng ý rồi ',
     btnYes: 'Dạ em đồng ý <33',
