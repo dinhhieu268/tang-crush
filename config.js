@@ -3,7 +3,8 @@ const CONFIG = {
     introDesc: `Anh có điều này muốn hỏi em
     Em hãy trả lời đừng thoát ra nha
     Lạc vào tim anh lẻ loi
-    Trả lời anh sẽ rất vui và cảm ơn em`,
+    Trả lời anh sẽ rất vui và cảm ơn em
+    trắc nghiệm vui thôi đừng nặng nề quá nha`,
     btnIntro: 'click vào đây',
     title: 'Em đồng ý làm bạn gái anh nha 😙',
     desc: 'Nếu không trả lời or thoát ra là em đồng ý rồi ',
