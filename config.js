@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Slow à!',
-    introDesc: 'Anh có điều này muốn hỏi em?
+    introDesc:`anh có điều này muốn hỏi em?
     'Em hãy trả lời và đừng thoát ra nhé', 
     'Trắc nghiệm mang tính chất khảo sát'.
     'Em hãy mạnh dạn trả lời nhé'
