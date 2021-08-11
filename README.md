@@ -8,8 +8,8 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Slow à!',
-    introDesc: `Có điều này anh muốn nói với em
+    introTitle: 'slow à!',
+    introDesc: `có điều này anh muốn nói với em
     Em hãy trả lời đừng thoát ra nha`,
     btnIntro: 'Click vào đây nhé',
     title: 'Em đồng ý làm bạn gái anh nha 😙',
