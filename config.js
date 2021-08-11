@@ -1,6 +1,7 @@
 const CONFIG = {
     introTitle: 'Slow à!',
     introDesc:`anh có điều này muốn hỏi em?
+    
     'Em hãy trả lời và đừng thoát ra nhé
     ', 
     'Trắc nghiệm mang tính chất khảo sát
@@ -8,6 +9,7 @@ const CONFIG = {
     'Em hãy mạnh dạn trả lời nhé:
     :)))'
     btnIntro: 'Click vào đây',
+    
     title: 'Em đồng ý làm bạn gái anh nha 😙',
     desc: 'Nếu không trả lời or thoát ra là em đồng ý rồi ',
     btnYes: 'Dạ em đồng ý <33',
